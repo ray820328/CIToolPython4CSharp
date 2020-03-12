@@ -1,0 +1,31 @@
+{
+	"project" : {
+		"localDir" : "xxx",
+		"repositoryType" : "git",
+	    "repositoryAddress" : "xxx",
+	    "branchName" : "xxx",
+	    "buildLogFile" : "Build.log",
+	    "reportLevels" : ["error", "warning"],
+	    "reportKeys" : ["SA"],
+		"filePath" : "./CodeAnalyzerTemplate.csproj"
+	},
+	"memberEmails" : {
+		"xxx" : ["xxx@xxx.com"]
+	},
+	"adminEmails" : {
+		"0" : []
+	},
+	"emailServerConfig" : {
+		"ip" : "xxx",
+		"port" : "465",
+		"account" : "xxx",
+		"password" : "xxx",
+		"emailSender" : "xxx",
+		"tls" : "True"
+	},
+	"emailData" : {
+		"title" : "编码规范检测报告",
+		"body" : "编码规范检测信息:<br/><br/><br/>"
+	},
+	"none" : "none"
+}
