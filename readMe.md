@@ -22,7 +22,7 @@ Date：2018/03/05
 
 ### 安装 .Net Core
 - 下载pkg安装
-    https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install
+  - https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install
 
 - 安装mono环境
   - 下载pkg并安装
