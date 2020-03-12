@@ -1,6 +1,6 @@
 # C#编码规范检测集成工具（Mac）
 
-Author：易锐 <xxx@xxx.com>
+Author：易锐 <Ray820328@163.com>
 Date：2018/03/05
 
 ---
