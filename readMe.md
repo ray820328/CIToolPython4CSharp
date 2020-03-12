@@ -1,4 +1,4 @@
-# C#编码规范检测集成系统（Mac）
+# C#编码规范检测集成工具（Mac）
 
 Author：易锐 <xxx@xxx.com>
 Date：2018/03/05
